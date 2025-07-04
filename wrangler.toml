@@ -8,3 +8,8 @@ compatibility_flags = ["nodejs_compat"]
 # Docs: https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
 # [vars]
 # MY_VARIABLE = "production_value"
+
+[vars]
+REAL_OPENAI_KEY = "YOUR_REAL_OPENAI_KEY"
+DUMMY_WRAPPER_KEY = "YOUR_DUMMY_WRAPPER_KEY"
+AI_GATEWAY_ENDPOINT_URL = "https://api.openai.com"
