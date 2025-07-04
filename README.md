@@ -1,7 +1,7 @@
 # AI Gateway (OpenAI) Wrapper
 Provide you OpenAI compatible, cost effective and proxied api endpoints on Cloudflare Worker. Foolproof considered.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pokon548/ai-gateway-openai-wrapper)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/orangeri/ai-gateway-openai-wrapper)
 
 ## Features
 - Expose [AI Gateway](https://developers.cloudflare.com/ai-gateway/) endpoint to OpenAI compatible APIs. Use proxied api anywhere.
